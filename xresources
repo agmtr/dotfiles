@@ -1,0 +1,4 @@
+xterm*background:black
+xterm*foreground:white
+xterm*facename: Terminess Powerline
+xterm*metaSendsEscape: true
