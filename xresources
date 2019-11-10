@@ -1,4 +1,4 @@
-xterm*font: -*-terminus-medium-r-*-*-14-*-*-*-*-*-iso10646-*
+xterm*font: xft:xos4 Terminus:size=10
 
 xterm*background: #282a36
 xterm*foreground: #eff0eb
