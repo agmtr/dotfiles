@@ -158,7 +158,7 @@ bar {
 
 # autostart
 #exec_always bash ~/dotfiles/scripts/xrandr.sh
-#exec_always xrdb ~/dotfiles/xresources
+exec_always xrdb ~/dotfiles/xresources
 exec_always setxkbmap "us,ru" "winkeys" "grp:alt_shift_toggle,grp_led:scroll"
 
 # border style
