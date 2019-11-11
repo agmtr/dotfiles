@@ -1,1 +1,0 @@
-/home/agmtr/dotfiles/zshrc
