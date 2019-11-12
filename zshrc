@@ -8,6 +8,8 @@ antigen use oh-my-zsh
 antigen bundle git
 antigen bundle docker
 antigen bundle minikube
+antigen bundle kubectl
+antigen bundle vscode
 
 # Syntax highlighting bundle.
 antigen bundle zsh-users/zsh-syntax-highlighting
@@ -25,3 +27,7 @@ antigen theme gentoo
 
 # Tell antigen that you're done
 antigen apply
+
+# Keychain
+eval `keychain --eval id_rsa`
+

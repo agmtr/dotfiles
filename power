@@ -1,0 +1,5 @@
+%powerdev ALL=NOPASSWD: /usr/sbin/pm-suspend, \
+			/usr/sbin/pm-suspend-hybrid, \
+			/usr/sbin/pm-hibernate, \
+			/sbin/reboot, \
+			/sbin/poweroff
